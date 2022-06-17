@@ -32,47 +32,28 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
 
 ### PROCEDURE:
-
+## step1:
+open the robot analyzer software.
+## step2:
+select the robot and its degrees of freedom.
+## step3:
+change the values with the link length whenever necessary.
+## step4:
+simulate the model for forward kinematics.
+## step5:
+pick the graph between the link and the joints.
+## step6:
+update the Dh parameters of the link configuration and endeffector configuration.
 
 
 
 
 ### SIMULATION 
+![output](?raw=true)
  
  
  
+  ### PLOT 
+ ![output](?raw=true)
  
- 
- 
- 
- ### PLOT 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### RESULTS :  
