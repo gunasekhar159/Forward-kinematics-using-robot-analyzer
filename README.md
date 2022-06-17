@@ -50,12 +50,17 @@ update the Dh parameters of the link configuration and endeffector configuration
 
 ### SIMULATION 
 ![output](https://github.com/gunasekhar159/Forward-kinematics-using-robot-analyzer/blob/main/2.png?raw=true)
+
+![output](https://github.com/gunasekhar159/Forward-kinematics-using-robot-analyzer/blob/main/1.png?raw=true)
  
  
  
   ### PLOT 
+  ![output](https://github.com/gunasekhar159/Forward-kinematics-using-robot-analyzer/blob/main/3.png?raw=true)
+  
+  ![output](https://github.com/gunasekhar159/Forward-kinematics-using-robot-analyzer/blob/main/4.png?raw=true)
 
- ![output](https://github.com/gunasekhar159/Forward-kinematics-using-robot-analyzer/blob/main/1.png?raw=true)
+ 
  
 ### RESULTS :  
 Thus, the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer is analysed and the graph for link cordinates and joint angles is plotted..
